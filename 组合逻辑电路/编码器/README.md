@@ -11,7 +11,7 @@
 - model_sel: 模式选择端口，低电平为普通编码器，高电平为优先编码器
 - flay: 编码有效输出端口，当为高电平时，表明输出为有效编码
 
-1[](https://github.com/Spider-Viper/Picture/blob/main/encoder10_4.png)
+![](https://github.com/Spider-Viper/Picture/blob/main/encoder10_4.png)
 
 
 
