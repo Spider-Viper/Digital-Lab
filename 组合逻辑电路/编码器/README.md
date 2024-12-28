@@ -14,8 +14,12 @@
 
 ![](https://github.com/Spider-Viper/Picture/blob/main/encoder10_4.png)
 
+Version 1:
+![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%201/encoder10_4%20v1.png)
+![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%201/encoder1-0_4%20utilization%20v1.png)
+![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%201/encoder10_4%20power%20v1.png)
 
-
-
-
-
+Version 2:
+![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%202/encoder10_4%20v2.png)
+![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%202/encoder10_4%20utilization%20v2.png)
+![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%202/encoder10_4%20power%20v2.png)
