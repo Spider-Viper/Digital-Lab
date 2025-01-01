@@ -55,14 +55,14 @@ e |    | c
 * 仿真结果：
 
 
-![]()
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/seven_seg_decoder/pictures/seven_seg_decoder_testbench.png)
 
 * RTL Schematic:
 
-![]()
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/seven_seg_decoder/pictures/seven_seg_decoder_RTLSchematic.png)
 
 * Synthesis Schematic:
 
-![]()
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/seven_seg_decoder/pictures/seven_seg_decoder_SynthesisSchematic.png)
 
 
