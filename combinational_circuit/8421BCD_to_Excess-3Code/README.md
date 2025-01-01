@@ -35,7 +35,7 @@
 | 1111    | 0010   |
 
 * 仿真结果：
-![](combinational_circuit/8421BCD_to_Excess-3Code/pictures/8421BCDtoExcess3Code_Synthesis_Schematic.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/8421BCD_to_Excess-3Code/pictures/8421BCDtoExcess3Code.png)
 
 * RTL Shematic:
 ![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/8421BCD_to_Excess-3Code/pictures/8421BCDtoExcess3Code_RTL_Schematic.png)
