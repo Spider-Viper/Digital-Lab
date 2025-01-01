@@ -2,7 +2,7 @@
 
 * 将4位8421BCD码转换为余3码
 
-![]()
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/8421BCD_to_Excess-3Code/pictures/8421BCD-to-Excess3Code.png)
 
 * 端口功能描述:
     * 输出端口:
@@ -35,10 +35,10 @@
 | 1111    | 0010   |
 
 * 仿真结果：
-![]()
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/8421BCD_to_Excess-3Code/pictures/8421BCDtoExcess3Code.png)
 
 * RTL Shematic:
-![]()
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/8421BCD_to_Excess-3Code/pictures/8421BCDtoExcess3Code_RTL_Schematic.png)
 
 * Synthesis Schematic:
-![]()
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/8421BCD_to_Excess-3Code/pictures/8421BCDtoExcess3Code_Synthesis_Schematic.png)
