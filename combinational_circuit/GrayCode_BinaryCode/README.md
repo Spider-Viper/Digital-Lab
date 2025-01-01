@@ -2,7 +2,7 @@
 
 * 实现n位格雷码和n位二进制码相互转换,默认为8位
 
-![]()
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/GrayCode_BinaryCode/picture/GrayCode_BinaryCode.png)
 
 * 端口说明：
     * 输出端口：
@@ -16,7 +16,7 @@
         * rstn: 复位，低电平有效
 
 * RTL Schematic:
-![]()
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/GrayCode_BinaryCode/picture/graycode_binarycode_RTLSchematic.png)
 
 * Synthesis Schematic:
-![]()
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/GrayCode_BinaryCode/picture/graycode_binarycode_SynthesisShematic.png)
