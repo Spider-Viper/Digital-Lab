@@ -8,7 +8,7 @@
 
 * 模块框图：
 
-![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/6bits%205%E7%9A%84%E5%80%8D%E6%95%B0%E6%A3%80%E6%B5%8B%E5%99%A8/picture/detector.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/6bits_multiples_of_5_detector/picture/detector.png)
 
 * 端口说明：
     * 输出端口：
@@ -21,12 +21,12 @@
         
 * 仿真结果：
 
-![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/6bits%205%E7%9A%84%E5%80%8D%E6%95%B0%E6%A3%80%E6%B5%8B%E5%99%A8/picture/testbench.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/6bits_multiples_of_5_detector/picture/testbench.png)
 
 * RTL Schematic:
 
-![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/6bits%205%E7%9A%84%E5%80%8D%E6%95%B0%E6%A3%80%E6%B5%8B%E5%99%A8/picture/RTLSchematic.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/6bits_multiples_of_5_detector/picture/RTLSchematic.png)
 
 * Syntehsis Schematic:
 
-![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/6bits%205%E7%9A%84%E5%80%8D%E6%95%B0%E6%A3%80%E6%B5%8B%E5%99%A8/picture/SyntesisSchematic.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/6bits_multiples_of_5_detector/picture/SyntesisSchematic.png)
