@@ -60,5 +60,4 @@ module detector(
         end
 
     end
-
 endmodule
