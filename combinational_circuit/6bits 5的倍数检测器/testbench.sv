@@ -19,12 +19,14 @@ module tb;
 
     initial begin
 
+        // 信号初始化 系统复位
         din <= 0;
         en <= 0;
         rstn <= 0;
         #50
         rstn <= 1;
 
+        // 检测使能
         #150
         en <= 1;
 
@@ -35,6 +37,7 @@ module tb;
 
         end
 
+        // 关闭检测使能
         #100
         en <= 0;
 
@@ -42,9 +45,10 @@ module tb;
 
             #30;
             din <= din + 1;
-            
+
         end
 
+        // 停止仿真
         #200
         $stop;
 
