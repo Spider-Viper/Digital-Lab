@@ -12,14 +12,14 @@
 - mode_sel: 模式选择端口，低电平为普通编码器，高电平为优先编码器
 - out_en: 编码有效输出端口，当为高电平时，表明输出为有效编码
 
-![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/encoder10_4.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/encoder/picture/%E6%A1%86%E5%9B%BE.png)
 
 Version 1:
-![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%201/encoder10_4%20v1.png)
-![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%201/encoder1-0_4%20utilization%20v1.png)
-![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%201/encoder10_4%20power%20v1.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/encoder/picture/version%201/encoder10_4%20v1.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/encoder/picture/version%201/encoder1-0_4%20utilization%20v1.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/encoder/picture/version%201/encoder10_4%20power%20v1.png)
 
 Version 2:
-![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%202/encoder10_4%20v2.png)
-![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%202/encoder10_4%20utilization%20v2.png)
-![](https://github.com/Spider-Viper/Picture/blob/main/endocer10_4/version%202/encoder10_4%20power%20v2.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/encoder/picture/version%202/encoder10_4%20v2.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/encoder/picture/version%202/encoder10_4%20utilization%20v2.png)
+![](https://github.com/Spider-Viper/Digital-Lab/blob/main/combinational_circuit/encoder/picture/version%202/encoder10_4%20power%20v2.png)
