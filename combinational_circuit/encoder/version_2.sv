@@ -19,7 +19,7 @@ module encoder10_4(
     output  reg         out_en,
     input   [9:0]       din,
     input               en,
-    input               model_sel   
+    input               mode_sel   
 );
     always @(*) begin
         out_en = 1;
@@ -49,7 +49,7 @@ module encoder10_4(
                 dout = 4'd0;
             
             // 对于普通编码器模式，若输入包含多位1时，输出编码无效
-            if(model_sel == 0) begin
+            if(mode_sel == 0) begin
                 if((din & (din - 1)) != 10'b00_0000_0000)
                     out_en = 0;
             end

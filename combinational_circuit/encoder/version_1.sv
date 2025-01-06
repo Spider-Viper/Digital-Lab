@@ -20,7 +20,7 @@ module encoder10_4(
     output  reg         out_en,
     input   [9:0]       din,
     input               en,
-    input               model_sel
+    input               mode_sel
 );
 
 always @(*) begin
@@ -29,7 +29,7 @@ always @(*) begin
         dout = 4'b0;
         out_en = 0;
     end else begin
-        case(model_sel)
+        case(mode_sel)
             1'b0 : begin    // 模式选择位为0，普通编码器模式
                 case(din)
                     10'b00_0000_0001 : dout = 4'd0;
