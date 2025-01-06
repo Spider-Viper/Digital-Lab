@@ -21,7 +21,7 @@ module gray_binary #(
     output reg              binary_out_en,
     input [WIDTH-1:0]       code_in,
     input                   en,
-    input                   model_sel,
+    input                   mode_sel,
     input                   rstn
 );
     integer i;
@@ -32,7 +32,7 @@ module gray_binary #(
             binary_out_en = 1'b0;
         end else begin
             if(en == 1) begin   // 转换使能
-                if(model_sel == 1) begin    // 格雷码转换为二进制码
+                if(mode_sel == 1) begin    // 格雷码转换为二进制码
                     gray_out_en = 1'b0;     // 格雷码输出无效
                     binary_out_en = 1'b1;   // 二进制码输出有效
 
